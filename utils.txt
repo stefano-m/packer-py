@@ -1,0 +1,2 @@
+# To be installed with "pip -r ..."
+flake8
