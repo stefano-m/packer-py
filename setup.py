@@ -19,7 +19,7 @@ setup(
     package_dir={'': 'src'},
     py_modules=['packer'],
     install_requires=[
-        'PyYAML>=3.10,<4'
+        'PyYAML>=5.1,<6'
     ],
     zip_safe=True,
     version=__version__,
